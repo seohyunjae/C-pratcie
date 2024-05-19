@@ -64,27 +64,33 @@
             // 
             // pboxSun
             // 
+            this.pboxSun.BackColor = System.Drawing.Color.Red;
             this.pboxSun.Location = new System.Drawing.Point(112, 101);
             this.pboxSun.Name = "pboxSun";
             this.pboxSun.Size = new System.Drawing.Size(97, 111);
             this.pboxSun.TabIndex = 2;
             this.pboxSun.TabStop = false;
+            this.pboxSun.Click += new System.EventHandler(this.pboxSun_Click);
             // 
             // pboxmoon
             // 
+            this.pboxmoon.BackColor = System.Drawing.Color.Yellow;
             this.pboxmoon.Location = new System.Drawing.Point(223, 101);
             this.pboxmoon.Name = "pboxmoon";
             this.pboxmoon.Size = new System.Drawing.Size(97, 111);
             this.pboxmoon.TabIndex = 3;
             this.pboxmoon.TabStop = false;
+            this.pboxmoon.Click += new System.EventHandler(this.pboxmoon_Click);
             // 
             // pboxstar
             // 
+            this.pboxstar.BackColor = System.Drawing.Color.Blue;
             this.pboxstar.Location = new System.Drawing.Point(351, 101);
             this.pboxstar.Name = "pboxstar";
             this.pboxstar.Size = new System.Drawing.Size(97, 111);
             this.pboxstar.TabIndex = 4;
             this.pboxstar.TabStop = false;
+            this.pboxstar.Click += new System.EventHandler(this.pboxstar_Click);
             // 
             // pboxNone
             // 
@@ -94,6 +100,7 @@
             this.pboxNone.Size = new System.Drawing.Size(97, 111);
             this.pboxNone.TabIndex = 5;
             this.pboxNone.TabStop = false;
+            this.pboxNone.Click += new System.EventHandler(this.pboxNone_Click);
             // 
             // rdoButton1
             // 
