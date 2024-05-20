@@ -1,0 +1,9 @@
+C:\Users\사용자\source\repos\Study_14_Override, Overload\14.Override_Overload\obj\Debug\_14.Override_Overload.Properties.Resources.resources
+C:\Users\사용자\source\repos\Study_14_Override, Overload\14.Override_Overload\obj\Debug\14.Override_Overload.csproj.GenerateResource.Cache
+C:\Users\사용자\source\repos\Study_14_Override, Overload\14.Override_Overload\obj\Debug\14.Override_Overload.csproj.CoreCompileInputs.cache
+C:\Users\사용자\source\repos\Study_14_Override, Overload\14.Override_Overload\obj\Debug\14.Override,Overload.exe
+C:\Users\사용자\source\repos\Study_14_Override, Overload\14.Override_Overload\obj\Debug\14.Override,Overload.pdb
+C:\Users\사용자\source\repos\Study_14_Override, Overload\14.Override_Overload\bin\Debug\14.Override,Overload.exe.config
+C:\Users\사용자\source\repos\Study_14_Override, Overload\14.Override_Overload\bin\Debug\14.Override,Overload.exe
+C:\Users\사용자\source\repos\Study_14_Override, Overload\14.Override_Overload\bin\Debug\14.Override,Overload.pdb
+C:\Users\사용자\source\repos\Study_14_Override, Overload\14.Override_Overload\obj\Debug\_14.Override_Overload.Form1.resources

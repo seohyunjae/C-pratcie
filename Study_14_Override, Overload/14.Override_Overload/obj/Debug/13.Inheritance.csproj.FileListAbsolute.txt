@@ -1,0 +1,20 @@
+c:\users\사용자\source\repos\13.Inheritance\13.Inheritance\bin\Debug\13.Inheritance.exe.config
+c:\users\사용자\source\repos\13.Inheritance\13.Inheritance\bin\Debug\13.Inheritance.exe
+c:\users\사용자\source\repos\13.Inheritance\13.Inheritance\bin\Debug\13.Inheritance.pdb
+c:\users\사용자\source\repos\13.Inheritance\13.Inheritance\obj\Debug\_13.Inheritance.Form1.resources
+c:\users\사용자\source\repos\13.Inheritance\13.Inheritance\obj\Debug\_13.Inheritance.Properties.Resources.resources
+c:\users\사용자\source\repos\13.Inheritance\13.Inheritance\obj\Debug\13.Inheritance.csproj.GenerateResource.Cache
+c:\users\사용자\source\repos\13.Inheritance\13.Inheritance\obj\Debug\13.Inheritance.csproj.CoreCompileInputs.cache
+c:\users\사용자\source\repos\13.Inheritance\13.Inheritance\obj\Debug\13.Inheritance.exe
+c:\users\사용자\source\repos\13.Inheritance\13.Inheritance\obj\Debug\13.Inheritance.pdb
+c:\users\사용자\source\repos\13.Inheritance\13.Inheritance\obj\Debug\13.Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\사용자\source\repos\Study_14_Override, Overload\13.Inheritance\bin\Debug\14.Override,Overload.exe.config
+C:\Users\사용자\source\repos\Study_14_Override, Overload\13.Inheritance\bin\Debug\14.Override,Overload.exe
+C:\Users\사용자\source\repos\Study_14_Override, Overload\13.Inheritance\bin\Debug\14.Override,Overload.pdb
+C:\Users\사용자\source\repos\Study_14_Override, Overload\13.Inheritance\obj\Debug\13.Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\사용자\source\repos\Study_14_Override, Overload\13.Inheritance\obj\Debug\_13.Inheritance.Form1.resources
+C:\Users\사용자\source\repos\Study_14_Override, Overload\13.Inheritance\obj\Debug\_14.Override_Overload.Properties.Resources.resources
+C:\Users\사용자\source\repos\Study_14_Override, Overload\13.Inheritance\obj\Debug\13.Inheritance.csproj.GenerateResource.Cache
+C:\Users\사용자\source\repos\Study_14_Override, Overload\13.Inheritance\obj\Debug\13.Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\사용자\source\repos\Study_14_Override, Overload\13.Inheritance\obj\Debug\14.Override,Overload.exe
+C:\Users\사용자\source\repos\Study_14_Override, Overload\13.Inheritance\obj\Debug\14.Override,Overload.pdb
