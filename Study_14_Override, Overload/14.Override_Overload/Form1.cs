@@ -21,6 +21,7 @@ namespace _14.Override_Overload
         /// </summary>
         public Form1()
         {
+            this.KeyDown += Form1_KeyDown;
             InitializeComponent();
         }
 

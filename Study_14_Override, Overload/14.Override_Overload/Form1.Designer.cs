@@ -122,7 +122,7 @@
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
-            this.KeyDown += Form1_KeyDown;
+            //this.KeyDown += Form1_KeyDown;
             this.ResumeLayout(false);
 
         }
