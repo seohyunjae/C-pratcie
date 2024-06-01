@@ -13,6 +13,11 @@ namespace _16_StreamReader_Write
 {
     public partial class Form1 : Form
     {
+        CXAMLControl _XML = new CXAMLControl();
+
+        Dictionary<string, string> _dData = new Dictionary<string, string>();
+
+
         /// <summary>
         /// 진입점
         /// </summary>
@@ -41,6 +46,12 @@ namespace _16_StreamReader_Write
             sb.Append(iNumber.ToString() + strEnter);
 
             tboxConfigData.Text = sb.ToString();
+
+            _dData.Clear();
+
+            _dData.Add(CXAMLControl._TEXT_DATA, strText);
+            _dData.Add(CXAMLControl._CBOX_DATA, bChecked.ToString());
+            _dData.Add(CXAMLControl._NUMBER_DATA, iNumber.ToString());
         }
 
 
@@ -54,8 +65,8 @@ namespace _16_StreamReader_Write
             string strFilePath = string.Empty;
 
             SFDialog.InitialDirectory = Application.StartupPath;   //프로그램 실행 파일 위치
-            SFDialog.FileName = "*.txt";
-            SFDialog.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
+            SFDialog.FileName = "*.xml";
+            SFDialog.Filter = "xml files (*.xml)|*.xml|All files (*.*)|*.*";
 
             if (SFDialog.ShowDialog() == DialogResult.OK)
             {
@@ -67,7 +78,9 @@ namespace _16_StreamReader_Write
                 //swSFDialog.WriteLine(tboxConfigData.Text);
                 //swSFDialog.Close();
 
-                File.WriteAllText(strFilePath, tboxConfigData.Text);
+                //File.WriteAllText(strFilePath, tboxConfigData.Text);
+
+                _XML.fXML_Writer(strFilePath, _dData);
             }
 
         }
