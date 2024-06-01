@@ -1,0 +1,10 @@
+C:\Users\사용자\source\repos\17_XML Contorl\16 StreamReader_Write\obj\Debug\17 XMLControl.csprojResolveAssemblyReference.cache
+C:\Users\사용자\source\repos\17_XML Contorl\16 StreamReader_Write\obj\Debug\17 XMLControl.csproj.GenerateResource.Cache
+C:\Users\사용자\source\repos\17_XML Contorl\16 StreamReader_Write\obj\Debug\17 XMLControl.csproj.CoreCompileInputs.cache
+C:\Users\사용자\source\repos\17_XML Contorl\16 StreamReader_Write\bin\Debug\17 XMLControl.exe.config
+C:\Users\사용자\source\repos\17_XML Contorl\16 StreamReader_Write\bin\Debug\17 XMLControl.exe
+C:\Users\사용자\source\repos\17_XML Contorl\16 StreamReader_Write\bin\Debug\17 XMLControl.pdb
+C:\Users\사용자\source\repos\17_XML Contorl\16 StreamReader_Write\obj\Debug\_17_XMLControl.Properties.Resources.resources
+C:\Users\사용자\source\repos\17_XML Contorl\16 StreamReader_Write\obj\Debug\17 XMLControl.exe
+C:\Users\사용자\source\repos\17_XML Contorl\16 StreamReader_Write\obj\Debug\17 XMLControl.pdb
+C:\Users\사용자\source\repos\17_XML Contorl\16 StreamReader_Write\obj\Debug\_17_XMLControl.Form1.resources

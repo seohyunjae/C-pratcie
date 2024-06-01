@@ -1,0 +1,9 @@
+c:\users\사용자\source\repos\16 StreamReader_Write\16 StreamReader_Write\bin\Debug\16 StreamReader_Write.exe.config
+c:\users\사용자\source\repos\16 StreamReader_Write\16 StreamReader_Write\bin\Debug\16 StreamReader_Write.exe
+c:\users\사용자\source\repos\16 StreamReader_Write\16 StreamReader_Write\bin\Debug\16 StreamReader_Write.pdb
+c:\users\사용자\source\repos\16 StreamReader_Write\16 StreamReader_Write\obj\Debug\_16_StreamReader_Write.Form1.resources
+c:\users\사용자\source\repos\16 StreamReader_Write\16 StreamReader_Write\obj\Debug\_16_StreamReader_Write.Properties.Resources.resources
+c:\users\사용자\source\repos\16 StreamReader_Write\16 StreamReader_Write\obj\Debug\16 StreamReader_Write.csproj.GenerateResource.Cache
+c:\users\사용자\source\repos\16 StreamReader_Write\16 StreamReader_Write\obj\Debug\16 StreamReader_Write.csproj.CoreCompileInputs.cache
+c:\users\사용자\source\repos\16 StreamReader_Write\16 StreamReader_Write\obj\Debug\16 StreamReader_Write.exe
+c:\users\사용자\source\repos\16 StreamReader_Write\16 StreamReader_Write\obj\Debug\16 StreamReader_Write.pdb
