@@ -96,8 +96,8 @@ namespace _16_StreamReader_Write
             string strFilePath = string.Empty;
 
             OFDialog.InitialDirectory = Application.StartupPath;   //프로그램 실행 파일 위치
-            OFDialog.FileName = "*.txt";
-            OFDialog.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
+            OFDialog.FileName = "*.xml";
+            OFDialog.Filter = "xml files (*.txt)|*.xml|All files (*.*)|*.*";
 
             StringBuilder sb = new StringBuilder();
 
@@ -120,6 +120,9 @@ namespace _16_StreamReader_Write
 
 
                 tboxConfigData.Text = sb.ToString();
+
+                _dData.Clear();
+                _dData = _XML.FXML_Redaer(strFilePath);
             }
         }
 
