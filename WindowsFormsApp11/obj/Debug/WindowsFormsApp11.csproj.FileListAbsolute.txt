@@ -1,0 +1,11 @@
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.AssemblyReference.cache
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.cache
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.frmPizza.resources

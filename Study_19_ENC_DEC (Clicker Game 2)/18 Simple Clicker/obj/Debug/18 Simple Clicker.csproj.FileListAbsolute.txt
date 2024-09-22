@@ -1,0 +1,10 @@
+C:\Users\사용자\source\repos\18 Simple Clicker\18 Simple Clicker\bin\Debug\18 Simple Clicker.exe.config
+C:\Users\사용자\source\repos\18 Simple Clicker\18 Simple Clicker\bin\Debug\18 Simple Clicker.exe
+C:\Users\사용자\source\repos\18 Simple Clicker\18 Simple Clicker\bin\Debug\18 Simple Clicker.pdb
+C:\Users\사용자\source\repos\18 Simple Clicker\18 Simple Clicker\obj\Debug\18 Simple Clicker.csprojResolveAssemblyReference.cache
+C:\Users\사용자\source\repos\18 Simple Clicker\18 Simple Clicker\obj\Debug\_18_Simple_Clicker.Form1.resources
+C:\Users\사용자\source\repos\18 Simple Clicker\18 Simple Clicker\obj\Debug\_18_Simple_Clicker.Properties.Resources.resources
+C:\Users\사용자\source\repos\18 Simple Clicker\18 Simple Clicker\obj\Debug\18 Simple Clicker.csproj.GenerateResource.Cache
+C:\Users\사용자\source\repos\18 Simple Clicker\18 Simple Clicker\obj\Debug\18 Simple Clicker.csproj.CoreCompileInputs.cache
+C:\Users\사용자\source\repos\18 Simple Clicker\18 Simple Clicker\obj\Debug\18 Simple Clicker.exe
+C:\Users\사용자\source\repos\18 Simple Clicker\18 Simple Clicker\obj\Debug\18 Simple Clicker.pdb
