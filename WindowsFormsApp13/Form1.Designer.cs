@@ -30,15 +30,20 @@
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.numPlayerCount = new System.Windows.Forms.NumericUpDown();
+            this.btnStart = new System.Windows.Forms.Button();
+            this.lboxResult = new System.Windows.Forms.ListBox();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numPlayerCount)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.numPlayerCount);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(419, 49);
+            this.groupBox1.Location = new System.Drawing.Point(39, 26);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(499, 99);
+            this.groupBox1.Size = new System.Drawing.Size(499, 94);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Menu";
@@ -46,22 +51,66 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(19, 47);
+            this.label1.Location = new System.Drawing.Point(19, 32);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(38, 12);
+            this.label1.Size = new System.Drawing.Size(65, 12);
             this.label1.TabIndex = 0;
-            this.label1.Text = "label1";
+            this.label1.Text = "Player 수 :";
+            // 
+            // numPlayerCount
+            // 
+            this.numPlayerCount.Location = new System.Drawing.Point(90, 30);
+            this.numPlayerCount.Maximum = new decimal(new int[] {
+            5,
+            0,
+            0,
+            0});
+            this.numPlayerCount.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.numPlayerCount.Name = "numPlayerCount";
+            this.numPlayerCount.Size = new System.Drawing.Size(82, 21);
+            this.numPlayerCount.TabIndex = 1;
+            this.numPlayerCount.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            // 
+            // btnStart
+            // 
+            this.btnStart.Location = new System.Drawing.Point(449, 126);
+            this.btnStart.Name = "btnStart";
+            this.btnStart.Size = new System.Drawing.Size(89, 29);
+            this.btnStart.TabIndex = 1;
+            this.btnStart.Text = "시작";
+            this.btnStart.UseVisualStyleBackColor = true;
+            this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
+            // 
+            // lboxResult
+            // 
+            this.lboxResult.FormattingEnabled = true;
+            this.lboxResult.ItemHeight = 12;
+            this.lboxResult.Location = new System.Drawing.Point(39, 178);
+            this.lboxResult.Name = "lboxResult";
+            this.lboxResult.Size = new System.Drawing.Size(499, 160);
+            this.lboxResult.TabIndex = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(955, 448);
+            this.ClientSize = new System.Drawing.Size(631, 425);
+            this.Controls.Add(this.lboxResult);
+            this.Controls.Add(this.btnStart);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numPlayerCount)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -70,6 +119,9 @@
 
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.NumericUpDown numPlayerCount;
+        private System.Windows.Forms.Button btnStart;
+        private System.Windows.Forms.ListBox lboxResult;
     }
 }
 
