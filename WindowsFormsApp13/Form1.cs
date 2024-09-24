@@ -14,6 +14,7 @@ namespace WindowsFormsApp13
     {
         int _locationX = 0;
         int _locationY = 0;
+        string fighting = "i can do it";
 
         public Form1()
         {
@@ -35,6 +36,7 @@ namespace WindowsFormsApp13
                 p1.Location = new Point(_locationX, _locationY + p1.Height * i);
 
                 p1.Show();
+
             } 
         }
     }
