@@ -14,7 +14,7 @@ namespace WindowsFormsApp13
     {
         int _locationX = 0;
         int _locationY = 0;
-        string fighting = "i can do it";
+       
 
         public Form1()
         {
