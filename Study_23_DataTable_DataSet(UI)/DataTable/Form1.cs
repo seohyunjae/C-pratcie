@@ -61,6 +61,8 @@ namespace DataTableTest
 
         private void cboxViewClass_SelectedIndexChanged(object sender, EventArgs e)
         {
+            dgViewInfo.DataSource = ds.Tables[cboxViewClass.Text];
+
 
         }
     }
