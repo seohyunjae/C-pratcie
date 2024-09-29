@@ -1,0 +1,16 @@
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\bin\Debug\net6.0-windows\29.UserControl.exe
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\bin\Debug\net6.0-windows\29.UserControl.deps.json
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\bin\Debug\net6.0-windows\29.UserControl.runtimeconfig.json
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\bin\Debug\net6.0-windows\29.UserControl.dll
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\bin\Debug\net6.0-windows\29.UserControl.pdb
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\obj\Debug\net6.0-windows\_29.UserControl.Form1.resources
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\obj\Debug\net6.0-windows\29.UserControl.csproj.GenerateResource.cache
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\obj\Debug\net6.0-windows\29.UserControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\obj\Debug\net6.0-windows\29.UserControl.AssemblyInfoInputs.cache
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\obj\Debug\net6.0-windows\29.UserControl.AssemblyInfo.cs
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\obj\Debug\net6.0-windows\29.UserControl.csproj.CoreCompileInputs.cache
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\obj\Debug\net6.0-windows\29.UserControl.dll
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\obj\Debug\net6.0-windows\refint\29.UserControl.dll
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\obj\Debug\net6.0-windows\29.UserControl.pdb
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\obj\Debug\net6.0-windows\29.UserControl.genruntimeconfig.cache
+C:\Users\서현재\Desktop\C-pratcie\29.UserControl\obj\Debug\net6.0-windows\ref\29.UserControl.dll
