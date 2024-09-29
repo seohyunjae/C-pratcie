@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.lblPlayerName = new System.Windows.Forms.Label();
-            this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.pbarPlayer = new System.Windows.Forms.ProgressBar();
             this.lblProcess = new System.Windows.Forms.Label();
             this.btnStop = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -43,12 +43,12 @@
             this.lblPlayerName.TabIndex = 0;
             this.lblPlayerName.Text = "PlayerName";
             // 
-            // progressBar1
+            // pbarPlayer
             // 
-            this.progressBar1.Location = new System.Drawing.Point(29, 50);
-            this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(512, 38);
-            this.progressBar1.TabIndex = 1;
+            this.pbarPlayer.Location = new System.Drawing.Point(29, 50);
+            this.pbarPlayer.Name = "pbarPlayer";
+            this.pbarPlayer.Size = new System.Drawing.Size(512, 38);
+            this.pbarPlayer.TabIndex = 1;
             // 
             // lblProcess
             // 
@@ -75,7 +75,7 @@
             this.ClientSize = new System.Drawing.Size(568, 100);
             this.Controls.Add(this.btnStop);
             this.Controls.Add(this.lblProcess);
-            this.Controls.Add(this.progressBar1);
+            this.Controls.Add(this.pbarPlayer);
             this.Controls.Add(this.lblPlayerName);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Play";
@@ -89,7 +89,7 @@
         #endregion
 
         private System.Windows.Forms.Label lblPlayerName;
-        private System.Windows.Forms.ProgressBar progressBar1;
+        private System.Windows.Forms.ProgressBar pbarPlayer;
         private System.Windows.Forms.Label lblProcess;
         private System.Windows.Forms.Button btnStop;
     }
