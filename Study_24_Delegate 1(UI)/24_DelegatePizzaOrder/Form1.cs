@@ -21,6 +21,7 @@ namespace _24_DelegatePizzaOrder
         public delegate int delFun<T>(T i);
 
         public delegate string drug(int item);
+        public delegate string rest(int think)
         public delegate object delFunc(object i);  // var , object
 
         int _iTotalPrice = 0;
