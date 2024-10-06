@@ -1,0 +1,30 @@
+c:\users\사용자\source\repos\31 Linq\31 Linq\bin\Debug\31 Linq.exe.config
+c:\users\사용자\source\repos\31 Linq\31 Linq\bin\Debug\31 Linq.exe
+c:\users\사용자\source\repos\31 Linq\31 Linq\bin\Debug\31 Linq.pdb
+c:\users\사용자\source\repos\31 Linq\31 Linq\obj\Debug\_31_Linq.Form1.resources
+c:\users\사용자\source\repos\31 Linq\31 Linq\obj\Debug\_31_Linq.Properties.Resources.resources
+c:\users\사용자\source\repos\31 Linq\31 Linq\obj\Debug\31 Linq.csproj.GenerateResource.Cache
+c:\users\사용자\source\repos\31 Linq\31 Linq\obj\Debug\31 Linq.csproj.CoreCompileInputs.cache
+c:\users\사용자\source\repos\31 Linq\31 Linq\obj\Debug\31 Linq.exe
+c:\users\사용자\source\repos\31 Linq\31 Linq\obj\Debug\31 Linq.pdb
+C:\Users\사용자\source\repos\31 Linq\31 Linq\obj\Debug\31 Linq.csprojResolveAssemblyReference.cache
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_31_Linq (UI)\31 Linq\obj\Debug\31 Linq.csprojResolveAssemblyReference.cache
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_31_Linq (UI)\31 Linq\obj\Debug\_31_Linq.Form1.resources
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_31_Linq (UI)\31 Linq\obj\Debug\_31_Linq.Properties.Resources.resources
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_31_Linq (UI)\31 Linq\obj\Debug\31 Linq.csproj.GenerateResource.Cache
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_31_Linq (UI)\31 Linq\obj\Debug\31 Linq.csproj.CoreCompileInputs.cache
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_31_Linq (UI)\31 Linq\obj\Debug\31 Linq.exe
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_31_Linq (UI)\31 Linq\obj\Debug\31 Linq.pdb
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_31_Linq (UI)\31 Linq\bin\Debug\31 Linq.exe.config
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_31_Linq (UI)\31 Linq\bin\Debug\31 Linq.exe
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_31_Linq (UI)\31 Linq\bin\Debug\31 Linq.pdb
+C:\Users\서현재\Desktop\C-pratcie\Study_31_Linq (UI)\31 Linq\bin\Debug\31 Linq.exe.config
+C:\Users\서현재\Desktop\C-pratcie\Study_31_Linq (UI)\31 Linq\bin\Debug\31 Linq.exe
+C:\Users\서현재\Desktop\C-pratcie\Study_31_Linq (UI)\31 Linq\bin\Debug\31 Linq.pdb
+C:\Users\서현재\Desktop\C-pratcie\Study_31_Linq (UI)\31 Linq\obj\Debug\31 Linq.csproj.AssemblyReference.cache
+C:\Users\서현재\Desktop\C-pratcie\Study_31_Linq (UI)\31 Linq\obj\Debug\_31_Linq.Form1.resources
+C:\Users\서현재\Desktop\C-pratcie\Study_31_Linq (UI)\31 Linq\obj\Debug\_31_Linq.Properties.Resources.resources
+C:\Users\서현재\Desktop\C-pratcie\Study_31_Linq (UI)\31 Linq\obj\Debug\31 Linq.csproj.GenerateResource.cache
+C:\Users\서현재\Desktop\C-pratcie\Study_31_Linq (UI)\31 Linq\obj\Debug\31 Linq.csproj.CoreCompileInputs.cache
+C:\Users\서현재\Desktop\C-pratcie\Study_31_Linq (UI)\31 Linq\obj\Debug\31 Linq.exe
+C:\Users\서현재\Desktop\C-pratcie\Study_31_Linq (UI)\31 Linq\obj\Debug\31 Linq.pdb
