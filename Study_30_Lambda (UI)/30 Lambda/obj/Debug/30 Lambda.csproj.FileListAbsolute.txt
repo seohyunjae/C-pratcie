@@ -1,0 +1,30 @@
+c:\users\사용자\source\repos\30 Lambda\30 Lambda\bin\Debug\30 Lambda.exe.config
+c:\users\사용자\source\repos\30 Lambda\30 Lambda\bin\Debug\30 Lambda.exe
+c:\users\사용자\source\repos\30 Lambda\30 Lambda\bin\Debug\30 Lambda.pdb
+c:\users\사용자\source\repos\30 Lambda\30 Lambda\obj\Debug\30 Lambda.csprojResolveAssemblyReference.cache
+c:\users\사용자\source\repos\30 Lambda\30 Lambda\obj\Debug\_30_Lambda.Form1.resources
+c:\users\사용자\source\repos\30 Lambda\30 Lambda\obj\Debug\_30_Lambda.Properties.Resources.resources
+c:\users\사용자\source\repos\30 Lambda\30 Lambda\obj\Debug\30 Lambda.csproj.GenerateResource.Cache
+c:\users\사용자\source\repos\30 Lambda\30 Lambda\obj\Debug\30 Lambda.csproj.CoreCompileInputs.cache
+c:\users\사용자\source\repos\30 Lambda\30 Lambda\obj\Debug\30 Lambda.exe
+c:\users\사용자\source\repos\30 Lambda\30 Lambda\obj\Debug\30 Lambda.pdb
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_30_Lambda (UI)\30 Lambda\obj\Debug\30 Lambda.csprojResolveAssemblyReference.cache
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_30_Lambda (UI)\30 Lambda\obj\Debug\_30_Lambda.Form1.resources
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_30_Lambda (UI)\30 Lambda\obj\Debug\_30_Lambda.Properties.Resources.resources
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_30_Lambda (UI)\30 Lambda\obj\Debug\30 Lambda.csproj.GenerateResource.Cache
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_30_Lambda (UI)\30 Lambda\obj\Debug\30 Lambda.csproj.CoreCompileInputs.cache
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_30_Lambda (UI)\30 Lambda\obj\Debug\30 Lambda.exe
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_30_Lambda (UI)\30 Lambda\obj\Debug\30 Lambda.pdb
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_30_Lambda (UI)\30 Lambda\bin\Debug\30 Lambda.exe.config
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_30_Lambda (UI)\30 Lambda\bin\Debug\30 Lambda.exe
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_30_Lambda (UI)\30 Lambda\bin\Debug\30 Lambda.pdb
+C:\Users\서현재\Desktop\C-pratcie\Study_30_Lambda (UI)\30 Lambda\bin\Debug\30 Lambda.exe.config
+C:\Users\서현재\Desktop\C-pratcie\Study_30_Lambda (UI)\30 Lambda\bin\Debug\30 Lambda.exe
+C:\Users\서현재\Desktop\C-pratcie\Study_30_Lambda (UI)\30 Lambda\bin\Debug\30 Lambda.pdb
+C:\Users\서현재\Desktop\C-pratcie\Study_30_Lambda (UI)\30 Lambda\obj\Debug\30 Lambda.csproj.AssemblyReference.cache
+C:\Users\서현재\Desktop\C-pratcie\Study_30_Lambda (UI)\30 Lambda\obj\Debug\_30_Lambda.Form1.resources
+C:\Users\서현재\Desktop\C-pratcie\Study_30_Lambda (UI)\30 Lambda\obj\Debug\_30_Lambda.Properties.Resources.resources
+C:\Users\서현재\Desktop\C-pratcie\Study_30_Lambda (UI)\30 Lambda\obj\Debug\30 Lambda.csproj.GenerateResource.cache
+C:\Users\서현재\Desktop\C-pratcie\Study_30_Lambda (UI)\30 Lambda\obj\Debug\30 Lambda.csproj.CoreCompileInputs.cache
+C:\Users\서현재\Desktop\C-pratcie\Study_30_Lambda (UI)\30 Lambda\obj\Debug\30 Lambda.exe
+C:\Users\서현재\Desktop\C-pratcie\Study_30_Lambda (UI)\30 Lambda\obj\Debug\30 Lambda.pdb
