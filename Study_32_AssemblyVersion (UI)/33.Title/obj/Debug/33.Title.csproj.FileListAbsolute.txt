@@ -1,0 +1,19 @@
+c:\users\사용자\source\repos\33.Title\33.Title\bin\Debug\33.Title.exe.config
+c:\users\사용자\source\repos\33.Title\33.Title\bin\Debug\33.Title.exe
+c:\users\사용자\source\repos\33.Title\33.Title\bin\Debug\33.Title.pdb
+c:\users\사용자\source\repos\33.Title\33.Title\obj\Debug\_33.Title.Properties.Resources.resources
+c:\users\사용자\source\repos\33.Title\33.Title\obj\Debug\33.Title.csproj.GenerateResource.Cache
+c:\users\사용자\source\repos\33.Title\33.Title\obj\Debug\33.Title.csproj.CoreCompileInputs.cache
+c:\users\사용자\source\repos\33.Title\33.Title\obj\Debug\33.Title.exe
+c:\users\사용자\source\repos\33.Title\33.Title\obj\Debug\33.Title.pdb
+c:\users\사용자\source\repos\33.Title\33.Title\obj\Debug\_33.Title.Title.resources
+C:\Users\사용자\source\repos\01. C#강의\2. 응용편\01. Source\Study_32_AssemblyVersion (UI)\33.Title\bin\Debug\33.Title.exe.config
+C:\Users\사용자\source\repos\01. C#강의\2. 응용편\01. Source\Study_32_AssemblyVersion (UI)\33.Title\bin\Debug\33.Title.exe
+C:\Users\사용자\source\repos\01. C#강의\2. 응용편\01. Source\Study_32_AssemblyVersion (UI)\33.Title\bin\Debug\33.Title.pdb
+C:\Users\사용자\source\repos\01. C#강의\2. 응용편\01. Source\Study_32_AssemblyVersion (UI)\33.Title\obj\Debug\33.Title.csprojResolveAssemblyReference.cache
+C:\Users\사용자\source\repos\01. C#강의\2. 응용편\01. Source\Study_32_AssemblyVersion (UI)\33.Title\obj\Debug\_33.Title.Title.resources
+C:\Users\사용자\source\repos\01. C#강의\2. 응용편\01. Source\Study_32_AssemblyVersion (UI)\33.Title\obj\Debug\_33.Title.Properties.Resources.resources
+C:\Users\사용자\source\repos\01. C#강의\2. 응용편\01. Source\Study_32_AssemblyVersion (UI)\33.Title\obj\Debug\33.Title.csproj.GenerateResource.Cache
+C:\Users\사용자\source\repos\01. C#강의\2. 응용편\01. Source\Study_32_AssemblyVersion (UI)\33.Title\obj\Debug\33.Title.csproj.CoreCompileInputs.cache
+C:\Users\사용자\source\repos\01. C#강의\2. 응용편\01. Source\Study_32_AssemblyVersion (UI)\33.Title\obj\Debug\33.Title.exe
+C:\Users\사용자\source\repos\01. C#강의\2. 응용편\01. Source\Study_32_AssemblyVersion (UI)\33.Title\obj\Debug\33.Title.pdb
