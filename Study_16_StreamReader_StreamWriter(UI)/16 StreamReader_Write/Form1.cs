@@ -18,7 +18,7 @@ namespace _16_StreamReader_Write
         /// </summary>
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();  //힘내자! 서현재!
         }
 
         private void btnConfigSet_Click(object sender, EventArgs e)
