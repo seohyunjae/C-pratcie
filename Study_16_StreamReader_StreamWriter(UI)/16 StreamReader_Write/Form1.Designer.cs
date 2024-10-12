@@ -54,6 +54,7 @@
             this.btnLoad.TabIndex = 0;
             this.btnLoad.Text = "Text 읽어오기";
             this.btnLoad.UseVisualStyleBackColor = true;
+            this.btnLoad.Click += new System.EventHandler(this.btnLoad_Click);
             // 
             // btnSave
             // 

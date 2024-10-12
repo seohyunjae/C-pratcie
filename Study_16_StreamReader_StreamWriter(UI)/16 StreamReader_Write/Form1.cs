@@ -52,7 +52,35 @@ namespace _16_StreamReader_Write
                 StreamWriter swSFDialog = new StreamWriter(strFilePath);
 
                 swSFDialog.WriteLine(tboxConfigData.Text);
+                swSFDialog.Close();
             }
+        }
+
+        private void btnLoad_Click(object sender, EventArgs e)
+        {
+            string strFilePath = string.Empty;
+
+            SFDialog.InitialDirectory = Application.StartupPath; //프로그램 실행 파일 위치
+            SFDialog.FileName = "*.txt";
+            SFDialog.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
+
+            StringBuilder sb = new StringBuilder();
+            if (OFDialog.ShowDialog() == DialogResult.OK)
+            {
+                strFilePath = OFDialog.FileName;
+
+                StreamReader srOFDialog = new StreamReader(strFilePath, Encoding.UTF8, true);
+
+                while (srOFDialog.EndOfStream == false)
+                {
+                    sb.Append(srOFDialog.ReadLine());
+                    sb.Append("\r\n");
+
+                }
+
+                tboxConfigData.Text = sb.ToString();
+            }
+
         }
     }
 }

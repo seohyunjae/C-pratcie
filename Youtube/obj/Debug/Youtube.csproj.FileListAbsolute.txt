@@ -1,0 +1,4 @@
+C:\Users\서현재\Desktop\C-pratcie\Youtube\obj\Debug\Youtube.csproj.AssemblyReference.cache
+C:\Users\서현재\Desktop\C-pratcie\Youtube\obj\Debug\Youtube.Properties.Resources.resources
+C:\Users\서현재\Desktop\C-pratcie\Youtube\obj\Debug\Youtube.csproj.GenerateResource.cache
+C:\Users\서현재\Desktop\C-pratcie\Youtube\obj\Debug\Youtube.csproj.CoreCompileInputs.cache

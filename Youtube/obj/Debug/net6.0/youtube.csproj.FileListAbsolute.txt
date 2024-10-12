@@ -1,0 +1,7 @@
+C:\Users\서현재\Desktop\C-pratcie\youtube\obj\Debug\net6.0\youtube.Properties.Resources.resources
+C:\Users\서현재\Desktop\C-pratcie\youtube\obj\Debug\net6.0\youtube.csproj.GenerateResource.cache
+C:\Users\서현재\Desktop\C-pratcie\youtube\obj\Debug\net6.0\youtube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\서현재\Desktop\C-pratcie\youtube\obj\Debug\net6.0\youtube.AssemblyInfoInputs.cache
+C:\Users\서현재\Desktop\C-pratcie\youtube\obj\Debug\net6.0\youtube.AssemblyInfo.cs
+C:\Users\서현재\Desktop\C-pratcie\youtube\obj\Debug\net6.0\youtube.csproj.CoreCompileInputs.cache
+C:\Users\서현재\Desktop\C-pratcie\youtube\obj\Debug\net6.0\youtube.csproj.AssemblyReference.cache
