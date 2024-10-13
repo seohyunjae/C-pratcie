@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -33,7 +34,8 @@ namespace _16_StreamReader_Write
             sb.Append(bChecked.ToString() + strEnter);
             sb.Append(iNumber.ToString() + strEnter);
 
-            tboxConfigData.Text = sb.ToString();
+            tboxConfigData.Text = sb.ToString(); //주석
+            
 
         }
 
