@@ -11,6 +11,7 @@ namespace _31_Linq
         const string sLEVEL = "LEVEL";
         const string sNAME = "NAME";
         const string sATTRIBUTE = "ATTRIBUTE";
+        const string test = "63";
 
         DataTable dt;
 
