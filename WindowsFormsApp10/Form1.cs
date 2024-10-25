@@ -17,6 +17,7 @@ namespace WindowsFormsApp10
     public partial class Form1 : Form
     {
         Dictionary<string, string> _dData = new Dictionary<string, string>();
+        DataTable dt = new DataTable();
         CXMLControl _xml = new CXMLControl();
         string strPath = Application.StartupPath + "\\Save.xml";
 
