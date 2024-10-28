@@ -1,0 +1,10 @@
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.AssemblyReference.cache
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\서현재\Desktop\C-pratcie\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
