@@ -19,6 +19,7 @@ namespace WindowsFormsApp9
             public int iSun; // 해에 대한 값
             public int iMoon; // 달에 대한 값
             public int iStar; // 별에 대한 값
+            public string hyo_silver;
 
             public int iCardSum; // 해,달,별을 더한 값
 
