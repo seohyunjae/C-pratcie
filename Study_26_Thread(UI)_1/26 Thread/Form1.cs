@@ -26,12 +26,15 @@ namespace _26_Thread
         int _locationX = 0;
         int _locationY = 0;
 
+        List<Play> lplay = new List<Play>();
+
         public Form1()
         {
             InitializeComponent();
 
             _locationX = this.Location.X;
-            _locationY = this.Location.Y;   
+            _locationY = this.Location.Y;
+            this.FormClosing += Form1_FormClosing;
         }
 
         private void btnStart_Click(object sender, EventArgs e)
@@ -45,10 +48,11 @@ namespace _26_Thread
                 pl.Location = new Point(_locationX, _locationY + pl.Height * i);
                 pl.eventdelMessage += Pl_eventdelMessage;
 
-
                 pl.Show();
 
                 pl.fThreadStart();
+
+                lplay.Add(pl);
             }
         }
 
@@ -65,6 +69,13 @@ namespace _26_Thread
             }
             return 0;
 
+        }
+        private void Form1_FormClosing(object sender, System.Windows.Forms.FormClosingEventArgs e)
+        {
+            foreach (Play oPlayForm in lplay)
+            {
+                oPlayForm.ThreadAbort(); // 프로그램 종료 강제로 Thread 해제
+            }
         }
     }
 }

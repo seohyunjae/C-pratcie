@@ -67,6 +67,7 @@
             this.btnStop.TabIndex = 3;
             this.btnStop.Text = "포기";
             this.btnStop.UseVisualStyleBackColor = true;
+            this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
             // 
             // Play
             // 
@@ -83,6 +84,7 @@
             this.Text = "Play";
             this.ResumeLayout(false);
             this.PerformLayout();
+  
 
         }
 

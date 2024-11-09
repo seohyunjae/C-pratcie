@@ -1,0 +1,33 @@
+c:\users\사용자\source\repos\29 UserControl\29 UserControl\bin\Debug\29 UserControl.exe.config
+c:\users\사용자\source\repos\29 UserControl\29 UserControl\bin\Debug\29 UserControl.exe
+c:\users\사용자\source\repos\29 UserControl\29 UserControl\bin\Debug\29 UserControl.pdb
+c:\users\사용자\source\repos\29 UserControl\29 UserControl\obj\Debug\_29_UserControl.Form1.resources
+c:\users\사용자\source\repos\29 UserControl\29 UserControl\obj\Debug\_29_UserControl.Properties.Resources.resources
+c:\users\사용자\source\repos\29 UserControl\29 UserControl\obj\Debug\_29_UserControl.UCInfo.resources
+c:\users\사용자\source\repos\29 UserControl\29 UserControl\obj\Debug\29 UserControl.csproj.GenerateResource.Cache
+c:\users\사용자\source\repos\29 UserControl\29 UserControl\obj\Debug\29 UserControl.csproj.CoreCompileInputs.cache
+c:\users\사용자\source\repos\29 UserControl\29 UserControl\obj\Debug\29 UserControl.exe
+c:\users\사용자\source\repos\29 UserControl\29 UserControl\obj\Debug\29 UserControl.pdb
+C:\Users\사용자\source\repos\29 UserControl\29 UserControl\obj\Debug\29 UserControl.csprojResolveAssemblyReference.cache
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_29_UserControl (UI)\29 UserControl\obj\Debug\29 UserControl.csprojResolveAssemblyReference.cache
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_29_UserControl (UI)\29 UserControl\obj\Debug\_29_UserControl.Form1.resources
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_29_UserControl (UI)\29 UserControl\obj\Debug\_29_UserControl.Properties.Resources.resources
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_29_UserControl (UI)\29 UserControl\obj\Debug\_29_UserControl.UCInfo.resources
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_29_UserControl (UI)\29 UserControl\obj\Debug\29 UserControl.csproj.GenerateResource.Cache
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_29_UserControl (UI)\29 UserControl\obj\Debug\29 UserControl.csproj.CoreCompileInputs.cache
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_29_UserControl (UI)\29 UserControl\obj\Debug\29 UserControl.exe
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_29_UserControl (UI)\29 UserControl\obj\Debug\29 UserControl.pdb
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_29_UserControl (UI)\29 UserControl\bin\Debug\29 UserControl.exe.config
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_29_UserControl (UI)\29 UserControl\bin\Debug\29 UserControl.exe
+C:\Users\사용자\source\repos\01. C#강의\01. Source\Study_29_UserControl (UI)\29 UserControl\bin\Debug\29 UserControl.pdb
+C:\Users\서현재\Desktop\C-pratcie\Study_29_UserControl (UI)\29 UserControl\bin\Debug\29 UserControl.exe.config
+C:\Users\서현재\Desktop\C-pratcie\Study_29_UserControl (UI)\29 UserControl\bin\Debug\29 UserControl.exe
+C:\Users\서현재\Desktop\C-pratcie\Study_29_UserControl (UI)\29 UserControl\bin\Debug\29 UserControl.pdb
+C:\Users\서현재\Desktop\C-pratcie\Study_29_UserControl (UI)\29 UserControl\obj\Debug\29 UserControl.csproj.AssemblyReference.cache
+C:\Users\서현재\Desktop\C-pratcie\Study_29_UserControl (UI)\29 UserControl\obj\Debug\_29_UserControl.Form1.resources
+C:\Users\서현재\Desktop\C-pratcie\Study_29_UserControl (UI)\29 UserControl\obj\Debug\_29_UserControl.Properties.Resources.resources
+C:\Users\서현재\Desktop\C-pratcie\Study_29_UserControl (UI)\29 UserControl\obj\Debug\_29_UserControl.UCInfo.resources
+C:\Users\서현재\Desktop\C-pratcie\Study_29_UserControl (UI)\29 UserControl\obj\Debug\29 UserControl.csproj.GenerateResource.cache
+C:\Users\서현재\Desktop\C-pratcie\Study_29_UserControl (UI)\29 UserControl\obj\Debug\29 UserControl.csproj.CoreCompileInputs.cache
+C:\Users\서현재\Desktop\C-pratcie\Study_29_UserControl (UI)\29 UserControl\obj\Debug\29 UserControl.exe
+C:\Users\서현재\Desktop\C-pratcie\Study_29_UserControl (UI)\29 UserControl\obj\Debug\29 UserControl.pdb
