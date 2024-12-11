@@ -27,6 +27,7 @@ namespace _24_DelegatePizzaOrder
 
         private void btnOrder_Click(object sender, EventArgs e)
         {
+            Dictionary<string, int> dPizzaOrder = new Dictionary<string, int>(); // Pizza 주문을 담을 그릇
             delFuncDow_Edge delDow = new delFuncDow_Edge(fDow);
             delFuncDow_Edge delEdge = new delFuncDow_Edge(fEdge);
 
@@ -39,10 +40,12 @@ namespace _24_DelegatePizzaOrder
             if (rdoDow1.Checked)
             {
                 iDowOrder = 1;
+                dPizzaOrder.Add("오리지널", 1);
             }
             else if (rdoDow2.Checked)
             {
                 iDowOrder = 2;
+                dPizzaOrder.Add("씬", 1);
             }
             //delDow(iDowOrder);
 
@@ -50,10 +53,14 @@ namespace _24_DelegatePizzaOrder
             if (rdoEdge1.Checked)
             {
                 iEdgeOrder = 1;
+                dPizzaOrder.Add("리치골드", 1);
+
             }
             else if (rdoEdge2.Checked)
             {
                 iEdgeOrder = 2;
+                dPizzaOrder.Add("치즈크러스터", 1);
+
             }
             //delEdge(iEdgeOrder);
 
@@ -64,9 +71,21 @@ namespace _24_DelegatePizzaOrder
             {
                 //delTopping = new delFuncTopping(fTopping1);
                 delTopping += fTopping1;
+                dPizzaOrder.Add("소세지", (int)numEa.Value);
             }
-            if (cboxTopping2.Checked) delTopping += fTopping2;
-            if (cboxTopping3.Checked) delTopping += fTopping3;
+
+            if (cboxTopping2.Checked)
+            {
+                delTopping += fTopping2;
+                dPizzaOrder.Add("감자", (int)numEa.Value);
+
+            }
+
+            if (cboxTopping3.Checked)
+            {
+                delTopping += fTopping3;
+                dPizzaOrder.Add("치즈", (int)numEa.Value);
+            }
 
             delTopping -= fTopping1;
 
@@ -75,7 +94,10 @@ namespace _24_DelegatePizzaOrder
             flboxOrderRed("----------------------------------");
             flboxOrderRed(string.Format("전체 주문가격은 {0}원 입니다", _iTotalPrice));
 
+            frmLoding(dPizzaOrder);
         }
+
+   
         #region Function
         /// <summary>
         /// 0 : 선택안함, 1 : 오리지널, 2: 씬
@@ -189,5 +211,29 @@ namespace _24_DelegatePizzaOrder
             lboxOrder.Items.Add(strOrder);
         }
         #endregion
+
+        #region event 예제
+        frmPizza fPizza;
+        private void frmLoding()
+        {
+            if (fPizza != null)
+            {
+                fPizza.Dispose();
+                fPizza = null;
+            }
+
+            fPizza = new frmPizza();
+            fPizza.eventdelPizzaComplete += FPizza_eventdelPizzaComplete;
+            fPizza.Show();
+            fPizza.fPizzarCheck();
+
+        }
+
+        private int FPizza_eventdelPizzaComplete(string strResult, int Time)
+        {
+            return 0;
+        }
+        #endregion
     }
+
 }

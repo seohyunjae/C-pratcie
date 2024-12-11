@@ -27,3 +27,4 @@ C:\Users\서현재\Desktop\C-pratcie\Study_24_Delegate 1(UI)_1\24_DelegatePizzaO
 C:\Users\서현재\Desktop\C-pratcie\Study_24_Delegate 1(UI)_1\24_DelegatePizzaOrder\obj\Debug\24_DelegatePizzaOrder.csproj.CoreCompileInputs.cache
 C:\Users\서현재\Desktop\C-pratcie\Study_24_Delegate 1(UI)_1\24_DelegatePizzaOrder\obj\Debug\24_DelegatePizzaOrder.exe
 C:\Users\서현재\Desktop\C-pratcie\Study_24_Delegate 1(UI)_1\24_DelegatePizzaOrder\obj\Debug\24_DelegatePizzaOrder.pdb
+C:\Users\서현재\Desktop\C-pratcie\Study_24_Delegate 1(UI)_1\24_DelegatePizzaOrder\obj\Debug\_24_DelegatePizzaOrder.frmPizza.resources
