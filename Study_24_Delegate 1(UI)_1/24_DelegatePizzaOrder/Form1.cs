@@ -97,7 +97,8 @@ namespace _24_DelegatePizzaOrder
             frmLoding(dPizzaOrder);
         }
 
-   
+
+
         #region Function
         /// <summary>
         /// 0 : 선택안함, 1 : 오리지널, 2: 씬
@@ -214,7 +215,7 @@ namespace _24_DelegatePizzaOrder
 
         #region event 예제
         frmPizza fPizza;
-        private void frmLoding()
+        private void frmLoding(Dictionary<string, int> dPizzaOrder)
         {
             if (fPizza != null)
             {
@@ -225,7 +226,7 @@ namespace _24_DelegatePizzaOrder
             fPizza = new frmPizza();
             fPizza.eventdelPizzaComplete += FPizza_eventdelPizzaComplete;
             fPizza.Show();
-            fPizza.fPizzarCheck();
+            fPizza.fPizzarCheck(dPizzaOrder);
 
         }
 
