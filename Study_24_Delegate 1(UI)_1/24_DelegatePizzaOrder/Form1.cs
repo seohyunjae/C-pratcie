@@ -10,6 +10,19 @@ using System.Windows.Forms;
 
 namespace _24_DelegatePizzaOrder
 {
+    static class Progra
+    {
+        /// <summary>
+        /// 애플리케이션의 메인 진입점입니다.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1()); // Form1을 메인 폼으로 설정
+        }
+    }
     public partial class Form1 : Form
     {
         public delegate int delFuncDow_Edge(int i);
@@ -90,9 +103,6 @@ namespace _24_DelegatePizzaOrder
             delTopping -= fTopping1;
 
             delTopping("토핑", (int)numEa.Value);
-
-            flboxOrderRed("----------------------------------");
-            flboxOrderRed(string.Format("전체 주문가격은 {0}원 입니다", _iTotalPrice));
 
             frmLoding(dPizzaOrder);
         }
@@ -228,11 +238,36 @@ namespace _24_DelegatePizzaOrder
             fPizza.Show();
             fPizza.fPizzarCheck(dPizzaOrder);
 
+            //_timer = new Timer();
+            //_timer.Interval = 1000;
+            //_timer.Tick += _timer_Tick;
+            //_timer.Start();
         }
+
+        //Timer _timer;
+        //private void _timer_Tick(object sender, EventArgs e)
+        //{
+        //    if (fPizza.BOrderChomplete)
+        //    {
+        //        flboxOrderRed("주문 완료 확인");
+        //    }
+        //}
 
         private int FPizza_eventdelPizzaComplete(string strResult, int Time)
         {
-            return 0;
+            flboxOrderRed("----------------------------------");
+            flboxOrderRed(string.Format("{0} / 걸린시간 : {1}", _iTotalPrice, Time));
+
+            // 시간 계산을 해서 5분이 넘어 가면 -1
+
+            if (Time > 4000)
+            {
+                return -1;
+            }
+            else
+            {
+                return 0;
+            }
         }
         #endregion
     }

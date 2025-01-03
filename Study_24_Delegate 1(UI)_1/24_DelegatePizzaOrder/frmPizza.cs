@@ -19,6 +19,10 @@ namespace _24_DelegatePizzaOrder
         public event delPizzaComplete eventdelPizzaComplete; // delegate event 선언
         // TEST
 
+        private bool bOrderChomplete = false; // 제작이 완료 됬는지 확인 하는 flag
+
+        public bool BOrderChomplete { get => bOrderChomplete; set => bOrderChomplete = value; }
+
         public frmPizza()
         {
             InitializeComponent();
@@ -37,10 +41,14 @@ namespace _24_DelegatePizzaOrder
          
         internal void fPizzarCheck(Dictionary<string, int> dPizzaOrder)
         {
+            BOrderChomplete = false;
+
+
             int iTotalTIme = 0;
             
             foreach (KeyValuePair<string, int> oOrder in dPizzaOrder)
             {
+
                 int iNowTime = 0;
                 string strType = string.Empty;
                 int iTime = 0;
@@ -97,8 +105,20 @@ namespace _24_DelegatePizzaOrder
                 this.Refresh();
                 Thread.Sleep(1000);
             }
-            eventdelPizzaComplete("pizza가 완료되었습니다", iTotalTIme);
-            // git test1
+            int iRet = eventdelPizzaComplete("pizza가 완성 되었습니다", iTotalTIme);
+
+            BOrderChomplete = true;
+
+            lboxMake.Items.Add("---------------------------------");
+
+            if (iRet == 0)
+            {
+                lboxMake.Items.Add("주문 완료 확인!!");
+            }
+            else
+            {
+                lboxMake.Items.Add("제작 시간 초과로 고객 반품!!!");
+            }
         }
     }
 }
